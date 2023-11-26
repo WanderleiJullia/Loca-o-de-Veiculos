@@ -1,4 +1,4 @@
-# Loca-o-de-Veiculos
+# Veiculos
 Atividade a seguir, possui objetivo de utilizar a forma de Normalização. A normalização é um processo no projeto de banco de dados que visa organizar as tabelas
 de um banco de dados relacional de forma eficiente, minimizando a redundância de dados e
 garantindo a integridade das informações. 
